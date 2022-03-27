@@ -2,6 +2,7 @@
   "manifest_version": 3,
   "name": "Light Color Picker",
   "version": "0.1",
+  "description": "Selector de color ligero, simple y ràpido.",
   "background": {
     "service_worker": "background.js"
   },
